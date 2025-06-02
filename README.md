@@ -6,7 +6,7 @@
 
 A modular AI-driven orchestration framework that accelerates security operations with GenAI-enhanced enrichment, threat scoring, and automated incident promotion.
 
-## Why This Matters (Amazon-Aligned)
+## Why This Matters
 
 This project mirrors AppSec automation pipelines used at scale to improve MTTR, reduce false positives, and support secure launch workflows — directly aligning with Amazon's focus on scalable tooling and security review enablement.
 
